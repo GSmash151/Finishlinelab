@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "965cc013d65c1fbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb5937d8912cac1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a41c3fbc006a909b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HomeWork/Session 12/Finish-line Lab Configure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Finish-line Lab Configure"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc8da4ebb8e234df",
+    "type": "split",
+    "children": [
+      {
+        "id": "13ac072a575084df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ed79b5916473f54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "853c4a089ecc5f65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f913b2e4174fa92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "244145a9f3586417",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6f79d18441c9293",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b5015ec80bdc100",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HomeWork/Session 11/Network Attack and Mitigations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Network Attack and Mitigations"
+            }
+          },
+          {
+            "id": "55c1ade98b8006fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "44468fe9fe607058",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dacf9f05d79a51b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a41c3fbc006a909b",
+  "lastOpenFiles": [
+    "HomeWork/Session 12/FinishlineLab-2.pkt~",
+    "HomeWork/Session 13/12-11-2024.md",
+    "HomeWork/Session 12/Finish-line Lab Configure.md",
+    "HomeWork/Session 12/9-12-2024.md",
+    "HomeWork/Session 13",
+    "HomeWork/Session 8/Finishline-lab111.pkt~",
+    "HomeWork/Session 12/DeviceInaSmallNetwork.png",
+    "HomeWork/Session 12/SmallNetworkTopolgies.png",
+    "HomeWork/Session 12/ModuleObjectives.png",
+    "HomeWork/Session 12/DisableUnusedServices.png",
+    "HomeWork/Session 12/EndpointSecurity.png",
+    "HomeWork/Session 12/EnableSSH.png",
+    "HomeWork/Session 12/additionalPasswordSecurity.png",
+    "HomeWork/Session 11/homework.png",
+    "HomeWork/Session 11/Firewall.png",
+    "HomeWork/Session 12",
+    "HomeWork/Session 11/Network Attack and Mitigations.md",
+    "HomeWork/Session 11/KeepBackups.png",
+    "Welcome.md",
+    "HomeWork/Session 8/Configuration.md",
+    "HomeWork/Session 9/11⁄18⁄2024.md",
+    "HomeWork/Session 10/Attacks.md",
+    "HomeWork/Session 10/RADIUS.md",
+    "Untitled.canvas"
+  ]
+}
